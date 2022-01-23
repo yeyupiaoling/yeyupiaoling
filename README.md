@@ -32,3 +32,14 @@
  11. 在Android部署的人脸检测、口罩识别、关键检测模型：[FaceKeyPointsMask](https://github.com/yeyupiaoling/FaceKeyPointsMask)
  12. 在Android上部署语义分割模型实现换人物背景：[ChangeHumanBackground](https://github.com/yeyupiaoling/ChangeHumanBackground)
  13. 使用Tensorflow实现的人脸识别项目：[Tensorflow-FaceRecognition](https://github.com/yeyupiaoling/Tensorflow-FaceRecognition)
+
+
+## 系列教程
+
+ 1. PaddlePaddle V2版本系列教程：[LearnPaddle](https://github.com/yeyupiaoling/LearnPaddle)
+ 2. PaddlePaddle Fluid版本系列教程：[LearnPaddle2](https://github.com/yeyupiaoling/LearnPaddle2)
+
+## 书籍源码
+
+ 1. 《PaddlePaddle从入门到实战》源码：[PaddlePaddleCourse](https://github.com/yeyupiaoling/PaddlePaddleCourse)
+ 2. 《深度学习应用实战之PaddlePaddle》源码：[BookSource](https://github.com/yeyupiaoling/BookSource)
