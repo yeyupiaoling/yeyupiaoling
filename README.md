@@ -30,7 +30,7 @@
  7. 基于PaddlePaddle实现的人流密度CrowdNet模型：[PaddlePaddle-CrowdNet](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet)
  8. 基于MXNET实现的年龄性别识别项目：[Age-Gender-MXNET](https://github.com/yeyupiaoling/Age-Gender-MXNET)
  9. 使用Tensorflow Lite、Paddle Lite、MNN、TNN框架在Android上不是图像分类模型：[ClassificationForAndroid](https://github.com/yeyupiaoling/ClassificationForAndroid)
- 10. PaddlePaddle实现的PP-YOLO工具：[PP-YOLO](https://github.com/yeyupiaoling/PP-YOLO)
+ 10. 基于PaddlePaddle实现的PP-YOLOE模型：[PP-YOLOE](https://github.com/yeyupiaoling/PP-YOLOE)
  11. 在Android部署的人脸检测、口罩识别、关键检测模型：[FaceKeyPointsMask](https://github.com/yeyupiaoling/FaceKeyPointsMask)
  12. 在Android上部署语义分割模型实现换人物背景：[ChangeHumanBackground](https://github.com/yeyupiaoling/ChangeHumanBackground)
  13. 使用Tensorflow实现的人脸识别项目：[Tensorflow-FaceRecognition](https://github.com/yeyupiaoling/Tensorflow-FaceRecognition)
