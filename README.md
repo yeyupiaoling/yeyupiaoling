@@ -9,15 +9,16 @@
 
  1. 基于PaddlePaddle动态图实现的语音识别项目：[PPASR](https://github.com/yeyupiaoling/PPASR)
  2. 基于Pytorch实现的语音识别项目：[MASR](https://github.com/yeyupiaoling/MASR)
- 3. 基于PaddlePaddle静态图实现的语音识别项目：[PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech)
- 4. 基于Pytorch实现的声音分类项目：[AudioClassification-Pytorch](https://github.com/yeyupiaoling/AudioClassification-Pytorch)
- 5. 基于PaddlePaddle实现声音分类项目：[AudioClassification-PaddlePaddle](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle)
- 6. 基于PaddlePaddle实现声纹识别项目：[VoiceprintRecognition-PaddlePaddle](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle)
- 7. 基于Pytorch实现声纹识别项目：[VoiceprintRecognition-Pytorch](https://github.com/yeyupiaoling/VoiceprintRecognition-Pytorch)
- 8. 基于Tensorflow实现声纹识别项目：[VoiceprintRecognition-Tensorflow](https://github.com/yeyupiaoling/VoiceprintRecognition-Tensorflow)
- 9. 基于Keras实现声纹识别项目：[VoiceprintRecognition-Keras](https://github.com/yeyupiaoling/VoiceprintRecognition-Keras)
- 10. 基于PaddlePaddle实现的语音情感识别：[SpeechEmotionRecognition-PaddlePaddle](https://github.com/yeyupiaoling/SpeechEmotionRecognition-PaddlePaddle)
- 11. 基于Pytorch实现的语音情感识别：[SpeechEmotionRecognition-Pytorch](https://github.com/yeyupiaoling/SpeechEmotionRecognition-Pytorch)
+ 3. 微调Whisper模型和加速推理：[Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune)
+ 4. 基于PaddlePaddle静态图实现的语音识别项目：[PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech)
+ 5. 基于Pytorch实现的声音分类项目：[AudioClassification-Pytorch](https://github.com/yeyupiaoling/AudioClassification-Pytorch)
+ 6. 基于PaddlePaddle实现声音分类项目：[AudioClassification-PaddlePaddle](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle)
+ 7. 基于PaddlePaddle实现声纹识别项目：[VoiceprintRecognition-PaddlePaddle](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle)
+ 8. 基于Pytorch实现声纹识别项目：[VoiceprintRecognition-Pytorch](https://github.com/yeyupiaoling/VoiceprintRecognition-Pytorch)
+ 9. 基于Tensorflow实现声纹识别项目：[VoiceprintRecognition-Tensorflow](https://github.com/yeyupiaoling/VoiceprintRecognition-Tensorflow)
+ 10. 基于Keras实现声纹识别项目：[VoiceprintRecognition-Keras](https://github.com/yeyupiaoling/VoiceprintRecognition-Keras)
+ 11. 基于PaddlePaddle实现的语音情感识别：[SpeechEmotionRecognition-PaddlePaddle](https://github.com/yeyupiaoling/SpeechEmotionRecognition-PaddlePaddle)
+ 12. 基于Pytorch实现的语音情感识别：[SpeechEmotionRecognition-Pytorch](https://github.com/yeyupiaoling/SpeechEmotionRecognition-Pytorch)
 
 ## 视觉项目
 
