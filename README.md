@@ -1,5 +1,5 @@
 ### 开发者，你们好！
-![访问者](https://visitor-badge.glitch.me/badge?page_id=yeyupiaoling)
+![访问者](https://komarev.com/ghpvc/?username=yeyupiaoling&label=Visitors&color=red&style=flat&logo=github)
 ![](https://img.shields.io/badge/常用框架-PaddlePaddle-red)
 ![](https://img.shields.io/badge/Language-Python-orange)  
 
