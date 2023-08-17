@@ -46,3 +46,10 @@
 
  1. 《PaddlePaddle从入门到实战》源码：[PaddlePaddleCourse](https://github.com/yeyupiaoling/PaddlePaddleCourse) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/PaddlePaddleCourse)
  2. 《深度学习应用实战之PaddlePaddle》源码：[BookSource](https://github.com/yeyupiaoling/BookSource) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/BookSource)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
