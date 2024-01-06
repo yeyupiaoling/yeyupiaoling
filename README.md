@@ -5,6 +5,16 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeyupiaoling&show_icons=true&theme=radical&cache_seconds=200*300)
 
+# 核心项目
+
+|  项目类型  |                                                                                                  Pytorch版本                                                                                                   |                                                                                                       PaddlePaddle版本                                                                                                        | 备注 |
+|:------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--:|
+|  语音识别  |                                           [MASR](https://github.com/yeyupiaoling/MASR) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/MASR)                                           |                                                 [PPASR](https://github.com/yeyupiaoling/PPASR) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/PPASR)                                                 |    |
+|  声纹识别  |     [VoiceprintRecognition-Pytorch](https://github.com/yeyupiaoling/VoiceprintRecognition-Pytorch) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/VoiceprintRecognition-Pytorch)      |     [VoiceprintRecognition-PaddlePaddle](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/VoiceprintRecognition-PaddlePaddle)      |    |
+|  声音分类  |        [AudioClassification-Pytorch](https://github.com/yeyupiaoling/AudioClassification-Pytorch) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/AudioClassification-Pytorch)         |        [AudioClassification-PaddlePaddle](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/AudioClassification-PaddlePaddle)         |    |
+| 语音情感识别 | [SpeechEmotionRecognition-Pytorch](https://github.com/yeyupiaoling/SpeechEmotionRecognition-Pytorch) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/SpeechEmotionRecognition-Pytorch) | [SpeechEmotionRecognition-PaddlePaddle](https://github.com/yeyupiaoling/SpeechEmotionRecognition-PaddlePaddle) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/SpeechEmotionRecognition-PaddlePaddle) |    |
+|  语音合成  |                               [VITS-Pytorch](https://github.com/yeyupiaoling/VITS-Pytorch) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/VITS-Pytorch)                               |                               [VITS-PaddlePaddle](https://github.com/yeyupiaoling/VITS-PaddlePaddle) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/VITS-PaddlePaddle)                               |    |
+
 ## 语音项目
 
  1. 基于PaddlePaddle动态图实现的语音识别项目：[PPASR](https://github.com/yeyupiaoling/PPASR) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/PPASR)
@@ -19,6 +29,8 @@
  10. 基于Keras实现声纹识别项目：[VoiceprintRecognition-Keras](https://github.com/yeyupiaoling/VoiceprintRecognition-Keras) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/VoiceprintRecognition-Keras)
  11. 基于PaddlePaddle实现的语音情感识别：[SpeechEmotionRecognition-PaddlePaddle](https://github.com/yeyupiaoling/SpeechEmotionRecognition-PaddlePaddle) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/SpeechEmotionRecognition-PaddlePaddle)
  12. 基于Pytorch实现的语音情感识别：[SpeechEmotionRecognition-Pytorch](https://github.com/yeyupiaoling/SpeechEmotionRecognition-Pytorch) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/SpeechEmotionRecognition-Pytorch)
+ 13. 基于PaddlePaddle实现的VIST语音合成：[VITS-PaddlePaddle](https://github.com/yeyupiaoling/VITS-PaddlePaddle) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/VITS-PaddlePaddle) 
+ 14. 基于Pytorch实现的VIST语音合成：[VITS-Pytorch](https://github.com/yeyupiaoling/VITS-Pytorch) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/VITS-Pytorch)
 
 ## 视觉项目
 
